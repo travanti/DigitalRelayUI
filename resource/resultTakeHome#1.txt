@@ -1,0 +1,65 @@
+Reference phasor to Va? (1 = yes), (0 = no)
+angAdj = [](0x0)
+User selected no.
+
+Cross polarized or self polarized relay (1 = Cross), (0 = Self)
+CrOrSelf = [](0x0)
+User selected self.
+
+
+Zr setting is defined as: 2.3865 ohms /angle 84.7862 deg
+The penultimate value of Ia is: 
+3.6564 A /angle 22.1879 deg
+
+The penultimate Value of Ib is: 
+10.8748 A /angle -169.0895 deg
+
+The penultimate Value of Ic is: 
+1.7192 A /angle 131.9695 deg
+
+The penultimate Value of Va is: 
+72.7289 V /angle 31.55 deg
+
+The penultimate Value of Vb is: 
+35.301 V /angle -93.071 deg
+
+The penultimate Value of Vc is: 
+72.251 V /angle 138.3032 deg
+
+count =  1
+
+>> 
+>> DigitalRelayTakeHome1_Problem2
+C:\Users\ntrav\Documents\Graduate_School_Files\EE537 - Protections #2\takehome exam#1\resource\resultTakeHome#1.txt
+
+ans = 0
+Reference phasor to Va? (1 = yes), (0 = no)1
+angAdj =  1
+User selected yes.
+
+Cross polarized or self polarized relay (1 = Cross), (0 = Self)1
+CrOrSelf =  1
+User selected cross.
+
+iter =  193
+
+Zr setting is defined as: 2.3865 ohms /angle 84.7862 deg
+The penultimate value of Ia is: 
+3.6564 A /angle -9.3621 deg
+
+The penultimate Value of Ib is: 
+10.8748 A /angle 159.3604 deg
+
+The penultimate Value of Ic is: 
+1.7192 A /angle 100.4194 deg
+
+The penultimate Value of Va is: 
+72.7289 V /angle 4.7236e-15 deg
+
+The penultimate Value of Vb is: 
+35.301 V /angle -124.6211 deg
+
+The penultimate Value of Vc is: 
+72.251 V /angle 106.7532 deg
+
+count =  1
